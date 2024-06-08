@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285020704900",
+    "project_id": "youtube-meet-clone",
+    "storage_bucket": "youtube-meet-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285020704900:android:167eb05a766cdd69a972d1",
+        "android_client_info": {
+          "package_name": "com.example.youtube_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2aEKyYgEnPzmNsIcYFdJemJ524CaPOdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
